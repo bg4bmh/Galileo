@@ -34,6 +34,7 @@ IMAGE_INSTALL += "ppp openssh"
 IMAGE_INSTALL += "linux-firmware-iwlwifi-6000g2a-6"
 IMAGE_INSTALL += "linux-firmware-iwlwifi-6000g2b-6"
 IMAGE_INSTALL += "linux-firmware-iwlwifi-135-6"
+IMAGE_INSTALL += "linux-firmware-iwlwifi-2030-6"
 
 IMAGE_INSTALL += "e2fsprogs-mke2fs e2fsprogs-e2fsck dosfstools util-linux-mkfs"
 
