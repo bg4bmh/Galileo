@@ -32,7 +32,7 @@ BB_NUMBER_THREADS = "12"
 PARALLEL_MAKE = "-j 14"
 
 MACHINE = "clanton"
-DISTRO ?= "clanton-tiny"
+DISTRO ?= "clanton-full"
 EXTRA_IMAGE_FEATURES = "debug-tweaks"
 USER_CLASSES ?= "buildstats image-mklibs image-prelink"
 PATCHRESOLVE = "noop"
